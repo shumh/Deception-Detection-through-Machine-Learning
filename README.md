@@ -1,6 +1,6 @@
 # Deception-Detection-through-Machine-Learning
 
-[Google Workspace](https://drive.google.com/drive/folders/136UnsH090VepKccZClpBDFGCg5oNOyBw) (Access restricted to collaborators)
+[Google Workspace](https://drive.google.com/drive/folders/136UnsH090VepKccZClpBDFGCg5oNOyBw) (Only people with access can open)
 
 ## Data-Preprocessing
 #### Extracting Facial Landmarks from Videos
