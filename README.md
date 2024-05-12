@@ -18,7 +18,7 @@
 
 <img width="846" alt="Screenshot 2024-05-12 at 2 29 45 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/70038845-5c70-4a94-8f53-8282965ea9a2">
 
-### Changed to Trial Dataset
+### Switched to Trial Dataset
 <img width="846" alt="Screenshot 2024-05-12 at 2 31 16 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/809f67e9-8f06-4982-b607-f2744a4b4cec">
 
 
