@@ -16,6 +16,7 @@
 
 
 <img width="845" alt="Screenshot 2024-05-12 at 2 28 06 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/0ab5adb7-c7e6-4d53-be73-f0f4be411c97">
+(Author Zhuyin Lyu)
 
 <img width="846" alt="Screenshot 2024-05-12 at 2 29 45 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/70038845-5c70-4a94-8f53-8282965ea9a2"> <br>
 (Author Richard Shum)
@@ -27,3 +28,7 @@
 
 #### Other Resources
 [LSTM tutorial](https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/)
+
+[OpenFace command line arguments](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Command-line-arguments)
+
+[Eye blink detection](https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/)
