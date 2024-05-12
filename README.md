@@ -27,6 +27,11 @@
 <img width="846" alt="Screenshot 2024-05-12 at 2 31 16 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/809f67e9-8f06-4982-b607-f2744a4b4cec"> <br>
 (Author Richard Shum)
 
+#### Focus on Eye Feature
+<img width="1434" alt="Model4_LSTMeye" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/99858369/2b9b3c08-d549-4e74-a432-e56117c1a254">
+
+(Author Christy Yung)
+
 
 #### Other Resources
 [LSTM tutorial](https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/)
