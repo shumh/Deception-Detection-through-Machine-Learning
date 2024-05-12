@@ -1,0 +1,17 @@
+Two datasets were used for this project:
+
+The University of Michigan Real Life Court Trial Dataset
+- A multimodal dataset consisting of real-life deception: deceptive and truthful trial testimonies, manually transcribed and annotated
+- The dataset includes 121 short videos, along with their transcriptions and gesture annotations.
+- https://lit.eecs.umich.edu/downloads.html#Real-life%20Deception
+- Verónica Pérez-Rosas, Mohamed Abouelenien, Rada Mihalcea, Mihai Burzo, 17th ACM International Conference on Multimodal Interaction (ICMI), 2015
+
+
+The Miami University Deception Detection Database
+- The MU3D contains 320 videos of Black and White targets, female and male, telling truths and lies. 
+- Eighty (20 Black female, 20 Black male, 20 White female, and 20 White male) targets were recorded speaking honestly and dishonestly about their social relationships.
+- Each target generated four different videos (i.e., positive truth, negative truth, positive lie, negative lie), yielding 320 videos fully crossing target race, target gender, statement valence, and statement veracity. 
+- This database is accompanied by an excel codebook which includes data pertinent to the videos and targets included in the database.
+- https://sc.lib.miamioh.edu/handle/2374.MIA/6067
+- Lloyd, E. P., Deska, J. C., Hugenberg, K., McConnell, A. R., Humphrey, B., &amp; Kunstman, J. W. (2017). Miami University deception detection video database. Manuscript under review.
+NOTE: This dataset requires special access, and we have signed an agreement that prevents us from distributing/publishing the videos entire or partly in any way.

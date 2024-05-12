@@ -1,0 +1,17 @@
+We used OpenFace developed by the CMU MultiComp Lab to extract the Action Units for each video in the Trial Dataset
+https://github.com/TadasBaltrusaitis/OpenFace
+
+We were only able to run OpenFace on our local machines, but not using the Google Colab environment.
+
+Therefore, we have attached instructions for using OpenFace below:
+
+Instruction for using OpenFace (Mac Users)
+1. Place the "openFace.sh" script in a directory called "fea_tool"
+2. Run the "openFace.sh" script
+3. It will create a directory "OpenFace" inside "fea_tool"
+4. Change Directory to "fea_tool/openFace/OpenFace/build/bin"
+5. Place the "runfeatureExtraction.sh" script in that directory
+6. Open "runfeatureExtraction.sh" and change the variable to the filepath that contains all the videos you want to extract AUs from
+7. This will create a directory "processed" inside "fea_tool/openFace/OpenFace/build/bin". The "processed" directory will contain a csv file for each video processed.
+8. The entire process may take many hours and depends on the number of videos you are processing.
+(For ours it took more than 12 hours)
