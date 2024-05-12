@@ -11,17 +11,17 @@
 
 
 ## Models:
-<img width="981" alt="1" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/e2e13681-cf84-4742-ac23-9551f7bd2bbb">
+<img width="981" alt="1" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/e2e13681-cf84-4742-ac23-9551f7bd2bbb"><br>
 (Author Richard Shum)
 
 
 <img width="845" alt="Screenshot 2024-05-12 at 2 28 06 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/0ab5adb7-c7e6-4d53-be73-f0f4be411c97">
 
-<img width="846" alt="Screenshot 2024-05-12 at 2 29 45 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/70038845-5c70-4a94-8f53-8282965ea9a2">
+<img width="846" alt="Screenshot 2024-05-12 at 2 29 45 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/70038845-5c70-4a94-8f53-8282965ea9a2"> <br>
 (Author Richard Shum)
 
 #### Switched to Trial Dataset
-<img width="846" alt="Screenshot 2024-05-12 at 2 31 16 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/809f67e9-8f06-4982-b607-f2744a4b4cec">
+<img width="846" alt="Screenshot 2024-05-12 at 2 31 16 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/809f67e9-8f06-4982-b607-f2744a4b4cec"> <br>
 (Author Richard Shum)
 
 
