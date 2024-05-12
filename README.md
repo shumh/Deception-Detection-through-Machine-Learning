@@ -25,5 +25,5 @@
 (Author Richard Shum)
 
 
-Other Resources
+#### Other Resources
 [LSTM tutorial](https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/)
