@@ -29,6 +29,8 @@
 #### Other Resources
 [LSTM tutorial](https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/)
 
-[OpenFace command line arguments](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Command-line-arguments)
+[Google MediaPipe FaceMesh Model](https://developers.google.com/mediapipe/solutions/vision/face_landmarker)
+
+[OpenFace command line arguments](https://pranav-srivastava.medium.com/openface-2-0-mac-installation-and-pose-detection-257289cbc79b)
 
 [Eye blink detection](https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/)
