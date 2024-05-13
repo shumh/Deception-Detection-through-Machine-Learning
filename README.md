@@ -4,7 +4,9 @@
 
 ## Data-Preprocessing
 #### Extracting Facial Landmarks from Videos
-<img width="893" alt="Screenshot 2024-05-12 at 2 27 34 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/661a2f6b-b322-49a5-aef3-bafc4bcf7979"> <br>
+<img width="782" alt="Screenshot 2024-05-12 at 10 01 38 PM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/99858369/07584a27-6ade-4965-99bc-74010b727493">
+
+
 (Author Richard Shum)
 
 #### Extracting Action Units from Videos
@@ -20,15 +22,20 @@
 <img width="845" alt="Screenshot 2024-05-12 at 2 28 06 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/0ab5adb7-c7e6-4d53-be73-f0f4be411c97">
 (Author Zhuyin Lyu)
 
-<img width="846" alt="Screenshot 2024-05-12 at 2 29 45 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/70038845-5c70-4a94-8f53-8282965ea9a2"> <br>
+
+<img width="834" alt="Screenshot 2024-05-12 at 10 03 04 PM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/99858369/625c55b0-ee45-47c4-b535-3ad23a9c1dee">
+
+<img width="827" alt="Screenshot 2024-05-12 at 9 59 54 PM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/99858369/7809605c-c8e5-4b37-9e43-7e7214717a4b">
+
 (Author Richard Shum)
 
 #### Switched to Trial Dataset
-<img width="846" alt="Screenshot 2024-05-12 at 2 31 16 AM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/89826556/809f67e9-8f06-4982-b607-f2744a4b4cec"> <br>
+<img width="811" alt="Screenshot 2024-05-12 at 9 59 58 PM" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/99858369/5bd9814f-e225-433d-901d-8d89a194bc93">
+
 (Author Richard Shum)
 
-#### LSTM with Eye Landmarks
-<img width="1434" alt="Model4_LSTMeye" src="https://github.com/shumh/Deception-Detection-through-Machine-Learning/assets/99858369/2b9b3c08-d549-4e74-a432-e56117c1a254">
+
+
 
 (Author Christy Yung)
 
