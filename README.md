@@ -41,3 +41,6 @@
 [OpenFace command line arguments](https://pranav-srivastava.medium.com/openface-2-0-mac-installation-and-pose-detection-257289cbc79b)
 
 [Eye blink detection](https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/)
+
+[Eye Landmark](https://github.com/Asadullah-Dal17/Eyes-Position-Estimator-Mediapipe/blob/master/Eye_Tracking_part2/main.py)
+[Iris Landmark]([https://github.com/Asadullah-Dal17/Eyes-Position-Estimator-Mediapipe/blob/master/Eye_Tracking_part2/main.py](https://github.com/Asadullah-Dal17/Iris-python/blob/master/Mediapip-Eyes-tracking-master%2030.05.2022/eyes_tracking/rastreamento-iris.py))
